@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kbk-19-isp-3__Android_lab1</string>
+    <string name="main_buttonInputData">Input Data</string>
+    <string name="main_buttonChoose">Choose</string>
+    <string name="main_buttonLine">Line</string>
+    <string name="main_buttonBar">Bar</string>
+    <string name="main_buttonQuit">Quit</string>
+
+    <string name="main_dialog_textColor">Color: </string>
+    <string name="main_dialog_buttonCommitSuicide">Commit</string>
+</resources>
